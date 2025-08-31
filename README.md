@@ -4,9 +4,9 @@ Welcome to my **Machine Learning Projects Repository**!
 Here, you’ll find code implementations, datasets, and visualizations for different ML projects.  
 
 ---
-<details>
+
    
-# <summary>🧬 Cancer Classification using Regularized Logistic Regression  
+# <><summary>🧬 Cancer Classification using Regularized Logistic Regression  
 
 📓 **File:** `Cancer.ipynb`  
 📂 **Dataset:** `cancer_data.csv`  
@@ -65,7 +65,7 @@ The model was trained using **Gradient Descent** and achieved up to **99% accura
 
 ---
 
-</details>
+</>
 
 ## 📬 Contact  
 💡 Have suggestions or want to collaborate? Reach out!  
