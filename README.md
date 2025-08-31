@@ -69,7 +69,7 @@ The model was trained using **Gradient Descent** and achieved up to **99% accura
 
 - 👤 **Author:** Saifullah Khan  
 - 📧 **Email:** [saifullahsafi.official@gmail.com]  
-- 🌐 **GitHub:** [Your GitHub Profile Link]  
+- 🌐 **GitHub:** [https://github.com/SaifullahKhanSafi]  
 
 ---
 
