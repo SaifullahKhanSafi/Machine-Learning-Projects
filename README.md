@@ -10,7 +10,7 @@ Here, you’ll find code implementations, datasets, and visualizations for diffe
 <details>
 <summary>🧬 Cancer Classification using Regularized Logistic Regression</summary>
 
-📓 **File:** `Cancer.ipynb`  
+📓 **File:** [cancer.ipynb](./cancer.ipynb)   
 📂 **Dataset:** `cancer_data.csv`  
 
 ### 🔹 Project Overview  
