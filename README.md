@@ -5,19 +5,21 @@ Here, you’ll find code implementations, datasets, and visualizations for diffe
 
 ---
 
-   
-# <details>🧬 Cancer Classification using Regularized Logistic Regression  
+## 📂 Projects  
+
+<details>
+<summary>🧬 Cancer Classification using Regularized Logistic Regression</summary>
 
 📓 **File:** `Cancer.ipynb`  
 📂 **Dataset:** `cancer_data.csv`  
 
-## 🔹 Project Overview  
+### 🔹 Project Overview  
 This project implements **Logistic Regression with Regularization** to classify **Breast Cancer** based on 30 features.  
 The model was trained using **Gradient Descent** and achieved up to **99% accuracy** on test data.  
 
 ---
 
-## 📌 Steps Performed
+### 📌 Steps Performed
 1. 📥 **Data Loading**: Loaded dataset using **Pandas** (`cancer_data.csv`) into  
    - `X`: 30 feature columns  
    - `y`: diagnosis (Malignant/Benign)  
@@ -45,15 +47,28 @@ The model was trained using **Gradient Descent** and achieved up to **99% accura
 
 ---
 
-## 📌 To-Do  
+### 📌 To-Do  
 - [ ] 🔮 Implement **Polynomial Feature Mapping** for nonlinear decision boundaries  
 - [ ] 📈 Add **ROC Curve & AUC Score** for better evaluation  
 - [ ] 🤖 Compare Logistic Regression with other ML models (SVM, Random Forest, Neural Networks)  
 
+</details>
+
 ---
 
-## 📷 Sample Visualizations  
-*(Coming soon – Decision Boundary, Cost Curve, and Prediction Plots)*  
+<details>
+<summary>📊 Future Project 1 – Coming Soon</summary>
+
+🚧 **Work in Progress...**
+
+</details>
+
+<details>
+<summary>🤖 Future Project 2 – Coming Soon</summary>
+
+🚧 **Work in Progress...**
+
+</details>
 
 ---
 
@@ -62,18 +77,3 @@ The model was trained using **Gradient Descent** and achieved up to **99% accura
 - **NumPy** & **Pandas** (Data Handling)  
 - **Matplotlib** (Visualizations)  
 - **Scikit-learn** (Preprocessing, Train-Test Split)  
-
----
-
-</details>
-
-## 📬 Contact  
-💡 Have suggestions or want to collaborate? Reach out!  
-
-- 👤 **Author:** Saifullah Khan  
-- 📧 **Email:** [saifullahsafi.official@gmail.com]  
-- 🌐 **GitHub:** [https://github.com/SaifullahKhanSafi]  
-
----
-
-⭐ If you like this project, don’t forget to **star the repo**!  
