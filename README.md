@@ -11,7 +11,7 @@ Here, you’ll find code implementations, datasets, and visualizations for diffe
 <summary>🧬 Cancer Classification using Regularized Logistic Regression</summary>
 
 📓 **File:** [cancer.ipynb](./cancer.ipynb)   
-📂 **Dataset:** `cancer_data.csv`  
+📂 **Dataset:** [cancer_data.csv](./Cancer_Data.csv)  
 
 ### 🔹 Project Overview  
 This project implements **Logistic Regression with Regularization** to classify **Breast Cancer** based on 30 features.  
